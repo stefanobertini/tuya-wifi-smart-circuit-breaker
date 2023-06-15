@@ -22,7 +22,8 @@ As usual, I started using the [TuyaDebug](https://github.com/rospogrigio/localtu
 
 So, what I had to do, is to put a **1** in the *DPIDs to send in RESET command* field.
 
-The complete device configuration is as follows:
+The complete device configuration is as follows:  
+
 ![Device)](assets/images/Device.png)
 
 So, we can proceed to the **Settings** page, going to **Devices & Services**, searching the **LocalTuya** integration and clicking on **Configure**  
